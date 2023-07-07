@@ -117,3 +117,16 @@ button {
   background-image: url("./images/background.png"), linear-gradient(45deg, #000, #303030);
     height: 500px;
 }
+
+.footer{
+    background-image: url("./images/background.png"), linear-gradient(45deg, #000, #303030);
+    height: 500px;
+}
+.fdiv1 {
+    color: white;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
